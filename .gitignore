@@ -1,0 +1,14 @@
+target/*
+eclipse-installer/*
+/target
+/project/target
+/project/project
+/bin
+/logs
+/.classpath
+/.project
+/.settings
+/conf/dev.conf
+/.idea
+/.cache-main
+/*.iml
